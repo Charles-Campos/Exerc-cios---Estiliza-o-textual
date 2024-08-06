@@ -1,0 +1,26 @@
+/* Color Theme Swatches in Hex */
+.fonte { color: #57493b; }
+.backgroud { color: #F2E4BB; }
+.destaque { color: #be7520; }
+.Old-vintage-paper-with-a-glowing-center-and-grunge-vignette.-3-hex { color: #F2E2CE; }
+.Old-vintage-paper-with-a-glowing-center-and-grunge-vignette.-4-hex { color: #F2ECE4; }
+
+html {
+    background: #F2E4BB;
+    color: #594A3C;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-size: 18px;
+}
+p {
+    text-indent: 1em;
+    font-style: normal;
+    font-weight: 400;    
+}
+h1, h2, h3 {    text-align: center;}
+h1 {    font-size: 1.8rem;}
+h2 {    font-size: 1.4rem;}
+h3 {    font-size: 1.2rem;}
+
+.summary {text-align:right;}
+.main p { line-height: 1.5;}
+.abbr { font-variant: small-caps;}
